@@ -1,0 +1,1 @@
+# hashicorp-terraform-associate-certification-notes
