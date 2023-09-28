@@ -4,6 +4,8 @@
 ---
 - [Infrastructure as Code](#infrastructure-as-code)
 
+## Reference
+- [Terraform official site](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-review-003)
 ### Infrastructure as Code
 ---
 - You write a configuration script to <ins> automate creating, updating or destroying <ins>cloud  infrastructure
